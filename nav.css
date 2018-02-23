@@ -5,7 +5,7 @@
    text-align: center;
 }
 
-.navbar a 
+.navbar a
 {
   float: center;
   color: grey;
@@ -16,14 +16,14 @@
 body{
   background-color: darkolivegreen;
 }
- 
+
  .navbar a:hover
  {
    background-color: grey;
    color:black;
-   
- } 
+
+ }
  .navbar a.active
  {
-   background-color: white;
+   background-color: black;
  }
