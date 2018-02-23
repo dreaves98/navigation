@@ -1,0 +1,29 @@
+.navbar
+{
+   overflow: hidden;
+   background-color: greenyellow;
+   text-align: center;
+}
+
+.navbar a 
+{
+  float: center;
+  color: grey;
+  padding:10px 20px;
+  font-size: 20px;
+  text-align: center;
+}
+body{
+  background-color: darkolivegreen;
+}
+ 
+ .navbar a:hover
+ {
+   background-color: grey;
+   color:black;
+   
+ } 
+ .navbar a.active
+ {
+   background-color: white;
+ }
